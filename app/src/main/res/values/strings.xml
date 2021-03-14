@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MinhaProva</string>
+    <string name="insira_algo">Insira algo</string>
+    <string name="ok">Ok</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="salvar">Salvar</string>
+    <string name="anterior">Anterior</string>
+    <string name="proximo">Próximo</string>
+    <string name="titulo">Título</string>
+    <string name="autor">Autor</string>
+    <string name="ano">Ano</string>
+    <string name="nota">Nota</string>
+    <string name="texto1">Texto1</string>
+    <string name="texto2">Texto2</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+    <string name="button4">Button4</string>
+</resources>
